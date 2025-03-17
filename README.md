@@ -36,7 +36,7 @@ NeoBot is a simple chatbot built using **Flask, Flask-CORS, JavaScript, JSON, HT
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/neobot.git
+git clone https://github.com/YASINet12/neobot.git
 cd neobot
 ```
 
