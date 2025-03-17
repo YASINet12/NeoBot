@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 
 ---
 
-### 🎉 Happy Chatting with NeoBot! 🚀
+### 😊 Happy Chatting with NeoBot! 😁
 
